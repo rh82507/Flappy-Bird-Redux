@@ -1,0 +1,70 @@
+
+buttonTemplate.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+hover
+  rotate: false
+  xy: 1, 1147
+  size: 1920, 772
+  orig: 1920, 772
+  offset: 0, 0
+  index: -1
+up
+  rotate: false
+  xy: 1, 373
+  size: 1920, 772
+  split: 0, 0, 0, 0
+  orig: 1920, 772
+  offset: 0, 0
+  index: -1
+
+buttonTemplate2.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+tempo1
+  rotate: false
+  xy: 1, 633
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tempo2
+  rotate: false
+  xy: 1, 119
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tempo3
+  rotate: false
+  xy: 515, 633
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tempo4
+  rotate: false
+  xy: 515, 119
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+tempo5
+  rotate: false
+  xy: 1029, 633
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+down
+  rotate: false
+  xy: 1, 1147
+  size: 1920, 772
+  split: 0, 0, 0, 0
+  orig: 1920, 772
+  offset: 0, 0
+  index: -1
